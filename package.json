@@ -1,0 +1,14 @@
+{
+  "name": "first-server",
+  "version": "1.0.0",
+  "description": "My very first server, using http",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Robert Bourton",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
